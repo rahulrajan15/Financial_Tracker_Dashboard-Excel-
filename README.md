@@ -1,4 +1,4 @@
-# Financial Tracker Dashboard in Excel
+# Financial Tracker Dashboard [Excel]
 
 The Financial Tracker Dashboard in Excel is a comprehensive tool that offers a streamlined approach to financial management.
 It provides a user-friendly interface where users can track and analyze their income, expenses, savings, and investments all in one place. 
